@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303572926372",
+    "project_id": "ivental-b3c1b",
+    "storage_bucket": "ivental-b3c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303572926372:android:e9d8787fe01d5703b70b31",
+        "android_client_info": {
+          "package_name": "com.Ivental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303572926372-1sm0no1g4lk55e27sp3qv9iif60rlok8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYaoodYitcQ7WtVjkxQZ-OcwpdgbFJpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303572926372-1sm0no1g4lk55e27sp3qv9iif60rlok8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

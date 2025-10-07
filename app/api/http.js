@@ -37,7 +37,8 @@ class HTTP {
         if (!config.baseURL) {
           //config.baseURL = `${getDomain()}/index.php/wp-json`;
           //http://192.168.8.102/codeanddesign/wordpress/index.php/wp-json
-          config.baseURL='https://ivental.000webhostapp.com/wp-json'
+          //https://ivental.000webhostapp.com/wp-json
+          config.baseURL='https://mediumturquoise-mandrill-884179.hostingersite.com/wp-json'
         }
         console.log(config.baseURL);
         //console.log('Before Request >>>', config);
